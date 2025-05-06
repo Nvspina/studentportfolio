@@ -1,0 +1,74 @@
+.portrait-image{
+	border-radius:15px;
+  	box-shadow:0px 4px 10px rgba(0, 0, 0, 0.1);
+  	max-width:100%;
+}
+
+h1, h2{
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+p{
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.custom-navbar {
+  background-color:#506986 !important; /* Or any color you'd like */
+
+}
+
+.nav-link, .form-label, .card-title{
+	color:#FFFFFF !important;
+	font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.main-logo{
+	border-radius:15px;
+  	box-shadow:0px 4px 10px rgba(0, 0, 0, 0.1);
+  	width:300px;
+}
+
+body{
+	background-color:#D3D3D3;
+	color:#fbf7f2;
+
+}
+
+.card{
+	background-color:#506986;
+	color:#fbf7f2;
+}
+
+.btn-primary {
+  background-color: #667292;
+  border-width: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.btn-primary:hover {
+  background-color: #667292;
+  color: #FFFFFF;
+  opacity: 80%;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.ai-image{
+  border-radius:20px;
+    max-width:100%;
+}
